@@ -18,4 +18,4 @@ jobs:
     environment: prod
     steps:
       - name: Deploy Step
-        run: echo "Deploy started to test....."
+        run: echo "Deploy started to test........"
